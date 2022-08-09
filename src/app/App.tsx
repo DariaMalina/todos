@@ -2,9 +2,9 @@ import React from 'react';
 import List from "../components/list";
 
 function App() {
-  return <div>
+  return <>
     <List/>
-  </div>
+  </>
 }
 
 export default App;
